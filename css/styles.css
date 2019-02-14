@@ -1,10 +1,28 @@
- figure{
- 	position: relative;
+ * {
+ box-sizing: border-box;
+ margin 0;
+ padding 0;
+}
+ 
+img {
+	width: 100%
+	height: auto;
+ }
+ 
+ figure {
+ 	position:relative;
  	display: block;
  	margin-left: auto;
  	margin-right: auto;
- 	width: =100%;
+ 	width: 60%
  	
+ }
+
+html {
+	font:20px/1.618; sans-serif;
+}
+
+
  }
 
 
